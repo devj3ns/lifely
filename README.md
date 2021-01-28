@@ -3,4 +3,4 @@
 
  An app I made in february 2020 which helps you to manage and achieve your goals and big fives.
  
- Regarding the code: if I were to redo the app today, I would program a lot differently :)
+ Regarding the code: if I were to redo the app today, I would program a lot differently. I learned a lot since then :)
